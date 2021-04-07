@@ -26,6 +26,7 @@ window.onload = function() {
  */
 function playGame(){
   // *CODE GOES BELOW HERE *
+  let playGuessNumber=0;
 }
 
 /**
